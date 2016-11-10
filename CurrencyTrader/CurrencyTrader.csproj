@@ -50,6 +50,7 @@
     <Compile Include="SimpleTradeMapper.cs" />
     <Compile Include="SimpleTradeParser.cs" />
     <Compile Include="SimpleTradeValidator.cs" />
+    <Compile Include="TradeDataUpdate.cs" />
     <Compile Include="UrlTradeDataProvider.cs" />
     <Compile Include="StreamTradeDataProvider.cs" />
     <Compile Include="TradeProcessor.cs" />

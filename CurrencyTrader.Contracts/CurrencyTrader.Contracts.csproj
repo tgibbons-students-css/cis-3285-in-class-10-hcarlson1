@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="ILogger.cs" />
     <Compile Include="ITradeDataProvider.cs" />
+    <Compile Include="ITradeDataUpdate.cs" />
     <Compile Include="ITradeMapper.cs" />
     <Compile Include="ITradeParser.cs" />
     <Compile Include="ITradeStorage.cs" />
